@@ -128,7 +128,7 @@ def delete_stock(request):
     return render(request, 'delete_stock.html' , {'ticker': ticker})
 
 # XXXXXXXXXXXXXXXXXXX
-def tickplot(request):
+def plots(request):
     from django.shortcuts import render
     import matplotlib.pyplot as plt
     import io
