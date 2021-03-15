@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class QuotesConfig(AppConfig):
-    name = 'python'
+    name = 'Quotes'
