@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class QuotesConfig(AppConfig):
-    name = 'python'
+class ApnStockDjangoConfig(AppConfig):
+    name = 'Project-4'
